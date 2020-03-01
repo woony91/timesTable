@@ -1,0 +1,4 @@
+#Sun Mar 01 13:09:42 EST 2020
+base.0=/Users/davesong/AndroidStudioProjects/TimesTable/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
